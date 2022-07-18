@@ -1,0 +1,58 @@
+[
+ {
+   "A": "technology",
+   "B": "number of job posting"
+ },
+ {
+   "A": "java",
+   "B": "92"
+ },
+ {
+   "A": "C",
+   "B": "184"
+ },
+ {
+   "A": "C#",
+   "B": "14"
+ },
+ {
+   "A": "C++",
+   "B": "24"
+ },
+ {
+   "A": "Java",
+   "B": "92"
+ },
+ {
+   "A": "JavaScript",
+   "B": "65"
+ },
+ {
+   "A": "Python",
+   "B": "51"
+ },
+ {
+   "A": "Scala",
+   "B": "47"
+ },
+ {
+   "A": "Oracle",
+   "B": "6"
+ },
+ {
+   "A": "SQL Server",
+   "B": "16"
+ },
+ {
+   "A": "MySQL Server",
+   "B": "5"
+ },
+ {
+   "A": "PostgreSQL",
+   "B": "17"
+ },
+ {
+   "A": "MongoDB",
+   "B": "4"
+ }
+]
